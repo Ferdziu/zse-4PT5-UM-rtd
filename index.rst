@@ -1,8 +1,6 @@
 .. _file1:
 
 .. include:: index.html
-   :start-line: 2
-   :end-line: 6
 
 Strona Główna
 ==============
@@ -13,8 +11,6 @@ Hello Word!
 .. _file2:
 
 .. include:: spisTresci.html
-   :start-line: 2
-   :end-line: 11
 
 Spis treści
 ============
@@ -43,8 +39,6 @@ Treść sekcji 3
 .. _file3:
 
 .. include:: oAutorze.html
-   :start-line: 2
-   :end-line: 8
 
 O autorze
 ==========
