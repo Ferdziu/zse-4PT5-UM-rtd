@@ -61,12 +61,12 @@ O autorze
 Wynotuj składnię
 ==================
 
--Nagłówki tekstowe (poziomy 1-4)
--Akapit tekstowy (treść)
--Akapit informacyjny (Note, Tip)
--Fragment kodu (liniowy, blokowy)
--Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
--Listy (numerowana, wypunktowana, definicji)
--Obraz (z alternatywnym tekstem oraz podpisem)
--Tabela (jeżeli istnieje)
+- Nagłówki tekstowe (poziomy 1-4)
+- Akapit tekstowy (treść)
+- Akapit informacyjny (Note, Tip)
+- Fragment kodu (liniowy, blokowy)
+- Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
+- Listy (numerowana, wypunktowana, definicji)
+- Obraz (z alternatywnym tekstem oraz podpisem)
+- Tabela (jeżeli istnieje)
 
