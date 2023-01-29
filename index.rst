@@ -70,4 +70,4 @@ Wynotuj składnię
 - Obraz (z alternatywnym tekstem oraz podpisem)
 - Tabela (jeżeli istnieje)
 
-[[wstaw_URL_do_dokumentacji_RtD]](https://zse-4pt5-um-rtd.readthedocs.io/en/latest/)
+[wstaw_URL_do_dokumentacji_RtD](https://zse-4pt5-um-rtd.readthedocs.io/en/latest/)
