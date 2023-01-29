@@ -1,6 +1,9 @@
 .. _file1:
 
-.. htmlinclude:: index.html
+.. include:: index.html
+   :start-line: 2
+   :end-line: 6
+
 Strona Główna
 ==============
 
@@ -9,7 +12,9 @@ Hello Word!
 
 .. _file2:
 
-.. htmlinclude:: spisTresci.html
+.. include:: spisTresci.html
+   :start-line: 2
+   :end-line: 11
 
 Spis treści
 ============
@@ -37,7 +42,9 @@ Treść sekcji 3
 
 .. _file3:
 
-.. htmlinclude:: oAutorze.html
+.. include:: oAutorze.html
+   :start-line: 2
+   :end-line: 8
 
 O autorze
 ==========
@@ -46,3 +53,20 @@ O autorze
 - E-mail: maksymilian.urbanowicz@zsegw.pl
 - Phone: 789-456-123
 - School: ZSE, room 201, 2-floor
+
+.. _file4:
+
+.. include:: notatka.html
+
+Wynotuj składnię
+==================
+
+-Nagłówki tekstowe (poziomy 1-4)
+-Akapit tekstowy (treść)
+-Akapit informacyjny (Note, Tip)
+-Fragment kodu (liniowy, blokowy)
+-Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
+-Listy (numerowana, wypunktowana, definicji)
+-Obraz (z alternatywnym tekstem oraz podpisem)
+-Tabela (jeżeli istnieje)
+
