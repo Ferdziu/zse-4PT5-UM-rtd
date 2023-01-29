@@ -41,3 +41,8 @@ Treść sekcji 3
 
 O autorze
 ==========
+
+- 4PT5 Maksymilian Urbanowicz
+- E-mail: maksymilian.urbanowicz@zsegw.pl
+- Phone: 789-456-123
+- School: ZSE, room 201, 2-floor
