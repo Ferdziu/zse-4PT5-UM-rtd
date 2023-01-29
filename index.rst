@@ -1,6 +1,4 @@
-.. _file1:
-
-.. include:: index.html
+.. _file1: index.html
 
 Strona Główna
 ==============
@@ -8,9 +6,7 @@ Strona Główna
 Hello Word!
 --------
 
-.. _file2:
-
-.. include:: spisTresci.html
+.. _file2: spisTresci.html
 
 Spis treści
 ============
@@ -36,9 +32,7 @@ Sekcja 3
 
 Treść sekcji 3
 
-.. _file3:
-
-.. include:: oAutorze.html
+.. _file3: oAutorze.html
 
 O autorze
 ==========
@@ -48,9 +42,7 @@ O autorze
 - Phone: 789-456-123
 - School: ZSE, room 201, 2-floor
 
-.. _file4:
-
-.. include:: notatka.html
+.. _file4: notatka.html
 
 Wynotuj składnię
 ==================
